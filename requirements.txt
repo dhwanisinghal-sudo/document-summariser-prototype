@@ -1,0 +1,11 @@
+transformers>=4.40
+torch>=2.1
+sentencepiece
+rouge-score
+networkx
+scikit-learn
+numpy
+pandas
+streamlit
+psutil
+nbformat
